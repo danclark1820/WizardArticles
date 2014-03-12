@@ -1,0 +1,18 @@
+body {
+  background-image:url('parch.jpg');
+  background-size: 1600px 1200px;
+  background-repeat: no-repeat;
+  color: #690617;
+  text-align: center;
+  font-family: cursive;
+}
+
+li {
+  list-style-type: none;
+  padding: 5px;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}

@@ -1,10 +1,11 @@
 require 'sinatra'
 require 'CSV'
+require_relative 'lib/article.rb'
 
 get '/' do
   @articles = []
-  CSV.foreach('articles.csv') do
-    @articles << Article.new
+  CSV.foreach('articles.csv') do |row|
+    @articles << Article.new(row[0], row[1], row[2])
   end
   erb :index
 end
@@ -22,6 +23,8 @@ post '/form' do
   File.open('articles.csv', 'a') do |file|
     file.puts(title + ',' + url + ',' + descript)
   end
+
+  redirect '/'
 
 end
 

@@ -1,0 +1,12 @@
+# Logfile created on 2014-03-12 18:41:40 -0400 by logger.rb/41954
+I, [2014-03-12T18:41:40.320241 #52806]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/danielclark/.rvm/gems/ruby-2.0.0-p353/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-03-12T18:41:40.320578 #52806]  INFO -- : 0:  rack (1.5.2) from /Users/danielclark/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-03-12T18:41:40.320884 #52806]  INFO -- : 0:  rack-protection (1.5.2) from /Users/danielclark/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-12T18:41:40.321157 #52806]  INFO -- : 0:  rspec-core (2.14.8) from /Users/danielclark/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-core-2.14.8.gemspec
+I, [2014-03-12T18:41:40.321406 #52806]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/danielclark/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-03-12T18:41:40.321661 #52806]  INFO -- : 0:  rspec-mocks (2.14.6) from /Users/danielclark/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-mocks-2.14.6.gemspec
+I, [2014-03-12T18:41:40.321907 #52806]  INFO -- : 0:  rspec (2.14.1) from /Users/danielclark/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-2.14.1.gemspec
+I, [2014-03-12T18:41:40.322149 #52806]  INFO -- : 0:  shotgun (0.9) from /Users/danielclark/.rvm/gems/ruby-2.0.0-p353/specifications/shotgun-0.9.gemspec
+I, [2014-03-12T18:41:40.322393 #52806]  INFO -- : 0:  tilt (1.4.1) from /Users/danielclark/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-03-12T18:41:40.322633 #52806]  INFO -- : 0:  sinatra (1.4.4) from /Users/danielclark/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-12T18:41:40.322866 #52806]  INFO -- : 0:  bundler (1.5.1) from /Users/danielclark/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
