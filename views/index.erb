@@ -9,10 +9,15 @@
     <h1>Wizarding Articles</h1>
     <h3 class=theid>Title URL Description<h3>
     <ul><% @articles.each do |art_obj| %>
-        <li><%= art_obj.title %> <a href='<%= art_obj.url %>' target="_blank"><%= art_obj.url %></a> <%= art_obj.descript %></li>
-        <% end %>
+        <li><%= art_obj.title %>
+            <a href='<%= art_obj.url %>' target="_blank">
+              <%= art_obj.url %>
+            </a>
+            <%= art_obj.descript %>
+            <% end %>
+        </li>
+
     </ul>
     <a href='/form'><h4>Have an article worth posting?</h4><a>
-
   </body>
 </html>

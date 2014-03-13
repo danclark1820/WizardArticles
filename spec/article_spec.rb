@@ -14,5 +14,4 @@ describe Article do
   it 'has a description' do
     expect(article_obj.descript).to eq('A list of new potions.')
   end
-
 end
